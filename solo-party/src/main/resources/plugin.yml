@@ -1,0 +1,10 @@
+name: MyPlugin
+version: 1.0
+main: me.socsob.soloparty.SoloParty
+api-version: 1.19
+description: Make a party by yourself!
+authors: [ "Socsob" ]
+commands:
+  edit:
+    description: Puts the player into edit mode.
+    usage: /<command>
